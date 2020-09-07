@@ -1,16 +1,14 @@
-### Hi there 👋
+This is an external ESP/Wallhack for CS:GO written in C++. This hack tool is constantly updated according to the new CS:GO updates.
 
-<!--
-**csgoripper/csgoripper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Usage
+Download the csgoripper.exe and run as a Administrator. It's that simple.
 
-Here are some ideas to get you started:
+# Menu
+![Main Menu](https://github.com/csgoripper/csgoripper/blob/master/csripper.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Player ESP
+![ESP Sample](https://github.com/csgoripper/csgoripper/blob/master/espripper.png?raw=true)
+
+# Drag & Drop
+![GIF](https://github.com/csgoripper/csgoripper/blob/master/gifripper.gif?raw=true)
+
